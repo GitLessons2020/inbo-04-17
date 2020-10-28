@@ -45,6 +45,11 @@ def about():
 @app.route('/megurt')
 def megurtfunc():
     return 'test task'
+
 @app.route('/Phamthihoa09')
 def Phamthihoa09():
     return 'Pham Thi Hoa INBO-04-17'
+
+@app.route('/linhnhi')
+def linhnhi():
+    return 'Chu Thi Thuy Linh INBO-04-17'
