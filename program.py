@@ -53,3 +53,7 @@ def Phamthihoa09():
 @app.route('/linhnhi')
 def linhnhi():
     return 'Chu Thi Thuy Linh INBO-04-17'
+
+@app.route('/Raushanbekov')
+def Raushanbekov():
+    return 'Hi everyone!'
