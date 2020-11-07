@@ -60,5 +60,5 @@ def Raushanbekov():
 
 @app.route('/Yargo54')
 def Yargo54():
-    return 'Hello, it is me, Yudin from INBO-04-17'
+    return 'Hello, it is Yudin from INBO-04-17'
     
