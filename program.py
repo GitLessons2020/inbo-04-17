@@ -57,3 +57,8 @@ def linhnhi():
 @app.route('/Raushanbekov')
 def Raushanbekov():
     return 'Hi, my name is Bek from INBO-04-17.'
+
+@app.route("/cblPP")
+def Volegov():
+    return 'It is Volegov Anton from INBO-04-17'
+    
