@@ -64,4 +64,5 @@ def Volegov():
 
 @app.route("/doktor2")
 def Volegov():
-    return 'It is Mikailov from INBO-04-17'    
+    return 'It is Mikailov from INBO-04-17!'
+    
