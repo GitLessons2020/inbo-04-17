@@ -61,3 +61,4 @@ def Raushanbekov():
 @app.route("/cblPP")
 def Volegov():
     return 'It is Volegov Anton from INBO-04-17'
+    
