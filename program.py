@@ -65,3 +65,7 @@ def Volegov():
 @app.route("/doktor2")
 def doktor2():
     return 'It is Mikailov from INBO-04-17!'
+
+@app.route("/DosPi")
+def zubkovSP()
+    return 'Howdy, partner, Zubkov from INBO-04-17'
