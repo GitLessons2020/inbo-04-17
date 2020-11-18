@@ -65,3 +65,7 @@ def Volegov():
 @app.route("/doktor2")
 def doktor2():
     return 'It is Mikailov from INBO-04-17!'
+
+@app.route('/1vanbelov')
+def ivanbelov():
+    return 'I am Belov Ivan, inbo-04-17'
