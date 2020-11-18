@@ -67,8 +67,9 @@ def doktor2():
     return 'It is Mikailov from INBO-04-17!'
 
 @app.route("/DosPi")
-def zubkovSP()
+def zubkovSP():
     return 'Howdy, partner, Zubkov from INBO-04-17'
+    
 @app.route('/1vanbelov')
 def ivanbelov():
     return 'I am Belov Ivan, inbo-04-17'
