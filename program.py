@@ -73,3 +73,7 @@ def zubkovSP():
 @app.route('/1vanbelov')
 def ivanbelov():
     return 'I am Belov Ivan, inbo-04-17'
+
+@app.route('/amirald07')
+def amirald07():
+    return 'Amir INBO-04-17'
