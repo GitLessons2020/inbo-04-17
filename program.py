@@ -76,4 +76,4 @@ def ivanbelov():
 
 @app.route('/amirald07')
 def amirald07():
-    return 'Amir from INBO-04-17'
+    return 'Amir INBO-04-17'
